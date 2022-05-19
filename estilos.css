@@ -1,0 +1,13 @@
+@font-face {
+    font-family: InfiniteDarkness;
+    src: url(Infinite\ Darkness.ttf);
+}
+
+*{
+text-align: center;
+}
+p{
+    font-family: InfiniteDarkness;
+    
+}
+
